@@ -1,7 +1,8 @@
 # About Me
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B+Hey+everyone%2C+I'm+Binh+Nguyen)](https://github.com/ntcbinh) <br>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%E2%9C%A8+_Fullstack+Web+Developer_+%E2%9C%A8)](https://github.com/ntcbinh)<br>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=08A60C&width=435&lines=How+to+reach+me%3F)](https://github.com/ntcbinh)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%E2%9C%A8+_Fullstack+Web+Developer_+%E2%9C%A8)](https://github.com/ntcbinh)
+
+## How to reach me?
 - <img align="center" src="./images/icon/linkedin.png" title = "linkedin" alt="" height="20" /> [in/nctbinh16](https://www.linkedin.com/in/ntcbinh16/) 
 - <img align="center" src="./images/icon/mail.webp" title = "mail" alt="" height="20" /> ntcbinh16@gmail.com
 
