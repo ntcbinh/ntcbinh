@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%E2%9C%A8+_Fullstack+Web+Developer_+%E2%9C%A8)](https://github.com/ntcbinh)
 
 ## How to reach me?
-- <img align="center" src="./images/icon/linkedin.png" title = "linkedin" alt="" height="20" /> [in/nctbinh16](https://www.linkedin.com/in/ntcbinh16/) 
+- <img align="center" src="./images/icon/linkedin.png" title = "linkedin" alt="" height="20" /> [in/ntcbinh16](https://www.linkedin.com/in/ntcbinh16/) 
 - <img align="center" src="./images/icon/mail.webp" title = "mail" alt="" height="20" /> ntcbinh16@gmail.com
 
 🖥️ I'm a fullstack developer with a passion for building beautiful, functional, and scalable web applications. <br>
@@ -14,6 +14,7 @@ I'm strong in Frontend.
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Visual-Basic](https://img.shields.io/badge/visualbasic-%23777BB4.svg?style=for-the-badge&logo=visualbasic&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
@@ -25,6 +26,7 @@ I'm strong in Frontend.
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+![Prettier](https://img.shields.io/badge/Prettier-4B3263?style=for-the-badge&logo=Prettier&logoColor=white)
 
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
